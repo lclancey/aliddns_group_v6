@@ -1,0 +1,14 @@
+{
+  "name": "alidns_group_ipv6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.10",
+    "axios": "^0.24.0"
+  }
+}
